@@ -29,7 +29,9 @@ A fun and interactive weather application built with React that displays real-ti
 
 ## 🚀 Deployment
 
-This app is deployed on Netlify.
+This app is deployed on Netlify. See it [here](yanisa-weather.netlify.app).
+
+Note: This app uses OpenWeather API. You must make your own API key to run locally.
 
 ## 📸 Screenshots
 
@@ -55,7 +57,6 @@ All background images and designs were custom-made for this application:
 3. **Toggle Day/Night**: Click the ☀️/🌙 button to switch between light and dark modes
 4. **View Forecast**: Click "📅 5-day forecast" to see the extended weather forecast
 5. **Search Again**: Click "← search again" to return to the search screen
-
 
 ## 👩‍💻 Author
 
