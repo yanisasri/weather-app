@@ -29,7 +29,7 @@ A fun and interactive weather application built with React that displays real-ti
 
 ## 🚀 Deployment
 
-This app is deployed on Netlify. See it [here](yanisa-weather.netlify.app).
+This app is deployed on Netlify. See it [here](https://yanisa-weather.netlify.app).
 
 Note: This app uses OpenWeather API. You must make your own API key to run locally.
 
@@ -61,7 +61,7 @@ All background images and designs were custom-made for this application:
 ## 👩‍💻 Author
 
 **Yanisa Srisa-ard**
-- Portfolio: [yanisa.netlify.app](yanisa.netlify.app)
+- Portfolio: [yanisa.netlify.app](https://yanisa.netlify.app)
 - GitHub: [@yanisasri](https://github.com/yanisasri)
 - LinkedIn: [linkedin.com/in/yanisa](https://linkedin.com/in/yanisa)
 
