@@ -61,7 +61,7 @@ All background images and designs were custom-made for this application:
 ## 👩‍💻 Author
 
 **Yanisa Srisa-ard**
-- Portfolio: [yanisasri.github.io](yanisasri.github.io)
+- Portfolio: [yanisa.netlify.app](yanisa.netlify.app)
 - GitHub: [@yanisasri](https://github.com/yanisasri)
 - LinkedIn: [linkedin.com/in/yanisa](https://linkedin.com/in/yanisa)
 
